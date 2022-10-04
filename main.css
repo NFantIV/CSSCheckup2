@@ -1,0 +1,27 @@
+h1 {
+    background-image: url(./assets/360_F_378762584_9fhI8GKzvfieCxwmOxL0GfxrIbkbY88X.jpeg);
+opacity: .4;
+    color: blue;
+    border: dotted red;
+}
+
+
+body {
+background-image: url(./assets/HD-wallpaper-spider-man-far-from-home.jpeg);}
+
+p {
+    color: black;
+    font-size: larger;
+    opacity: .8;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightgray;
+}
+
+#photos {
+    opacity: .7;
+}
+
+#Girlfriends {
+    padding: 20px 20px 20px 40px;
+    opacity: .8;
+}
